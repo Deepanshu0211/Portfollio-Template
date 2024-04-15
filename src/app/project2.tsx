@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import styles from "./project2.scss"
+import  "../app/project2.scss"
 
 
 export default function Home() {
@@ -9,10 +9,10 @@ export default function Home() {
   ];
 
   return (
-    <div className={styles.pageContent}>
+    <div className="pageContent">
       
 
-      <main className={styles.pageContent}>
+      <main className="pageContent">
         {cards.map((card, index) => (
           <div className="card" key={index}>
             <div className="content">
