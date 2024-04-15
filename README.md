@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Screenshots
+
+![Alt text](https://cdn.discordapp.com/attachments/1091926782128697404/1229510756555558922/image.png?ex=662ff21f&is=661d7d1f&hm=342bec026f71d3c63a85576a67c88ff48e36292da45430dffcbcf9577dfb95ce&)
+
+![Alt text](https://cdn.discordapp.com/attachments/1091926782128697404/1229510756978917436/image.png?ex=662ff21f&is=661d7d1f&hm=71e76d71a56da5f6c71ca212af9ff50c5b0b2015df505d9514a60d49951e5d38&)
+
+![Alt text](https://cdn.discordapp.com/attachments/1091926782128697404/1229510757398614067/image.png?ex=662ff21f&is=661d7d1f&hm=c5b92e11eca2b38e6bc3a6ccb7da9032748ef59ded36156a42835467f30d4138&)
+
+![Alt text](https://cdn.discordapp.com/attachments/1091926782128697404/1229510757742542868/image.png?ex=662ff21f&is=661d7d1f&hm=90bf093d2a39868d5a23a450b6136596b195afbd84d353ec19d639b927028326&)
+
+![Alt text](https://cdn.discordapp.com/attachments/1091926782128697404/1229510758128156914/image.png?ex=662ff21f&is=661d7d1f&hm=cdc6d824a5685a5121fa1c78624e98431b74a1d5633377138f042afbce460e53&)
+
